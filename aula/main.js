@@ -1,0 +1,1 @@
+alert('teste do arqvuio javascritp');
